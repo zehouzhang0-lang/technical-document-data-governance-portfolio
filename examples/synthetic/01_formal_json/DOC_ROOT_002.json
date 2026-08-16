@@ -1,0 +1,29 @@
+{
+  "source_path": "synthetic://documents/DOC_ROOT_002.pdf",
+  "spec_code": "DOC-ROOT-002",
+  "spec_code_key": "DOCROOT002",
+  "revision": "B",
+  "title": "Synthetic Root Document 002",
+  "references": [
+    {
+      "code": "SPEC-ALPHA",
+      "code_key": "SPECALPHA",
+      "title": "Synthetic Material Specification Alpha",
+      "revision": "B",
+      "order": 0,
+      "source_line": "Applicable documents: SPEC-ALPHA Rev B",
+      "source_path": "synthetic://documents/DOC_ROOT_002.pdf",
+      "source_page": 3
+    },
+    {
+      "code": "SPEC-BETA",
+      "code_key": "SPECBETA",
+      "title": "Synthetic Inspection Specification Beta",
+      "revision": "A",
+      "order": 1,
+      "source_line": "Applicable documents: SPEC-BETA Rev A",
+      "source_path": "synthetic://documents/DOC_ROOT_002.pdf",
+      "source_page": 3
+    }
+  ]
+}

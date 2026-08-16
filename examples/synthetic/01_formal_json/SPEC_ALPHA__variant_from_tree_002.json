@@ -1,0 +1,19 @@
+{
+  "source_path": "synthetic://documents/SPEC_ALPHA_B.pdf",
+  "spec_code": "SPEC-ALPHA",
+  "spec_code_key": "SPECALPHA",
+  "revision": "B",
+  "title": "Synthetic Material Specification Alpha",
+  "references": [
+    {
+      "code": "SPEC-BETA",
+      "code_key": "SPECBETA",
+      "title": "Synthetic Inspection Specification Beta",
+      "revision": "A",
+      "order": 0,
+      "source_line": "Referenced document: SPEC-BETA Rev A",
+      "source_path": "synthetic://documents/SPEC_ALPHA_B.pdf",
+      "source_page": 4
+    }
+  ]
+}

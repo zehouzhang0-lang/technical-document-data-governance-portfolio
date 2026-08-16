@@ -1,0 +1,29 @@
+{
+  "source_path": "synthetic://documents/DOC_ROOT_001.pdf",
+  "spec_code": "DOC-ROOT-001",
+  "spec_code_key": "DOCROOT001",
+  "revision": "A",
+  "title": "Synthetic Root Document 001",
+  "references": [
+    {
+      "code": "SPEC-ALPHA",
+      "code_key": "SPECALPHA",
+      "title": "Synthetic Material Specification Alpha",
+      "revision": "A",
+      "order": 0,
+      "source_line": "Applicable documents: SPEC-ALPHA Rev A",
+      "source_path": "synthetic://documents/DOC_ROOT_001.pdf",
+      "source_page": 2
+    },
+    {
+      "code": "LEAF-MISSING-001",
+      "code_key": "LEAFMISSING001",
+      "title": "Synthetic Unmapped Terminal Reference",
+      "revision": "",
+      "order": 1,
+      "source_line": "Reference: LEAF-MISSING-001",
+      "source_path": "synthetic://documents/DOC_ROOT_001.pdf",
+      "source_page": 2
+    }
+  ]
+}

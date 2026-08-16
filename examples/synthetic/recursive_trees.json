@@ -1,0 +1,38 @@
+[
+  {
+    "root": "DOC-ROOT-001",
+    "children": [
+      {
+        "code": "SPEC-ALPHA",
+        "status": "json_output",
+        "children": []
+      },
+      {
+        "code": "LEAF-MISSING-001",
+        "status": "missing_mapping_terminal_leaf",
+        "children": []
+      }
+    ]
+  },
+  {
+    "root": "DOC-ROOT-002",
+    "children": [
+      {
+        "code": "SPEC-ALPHA",
+        "status": "json_output_variant",
+        "children": [
+          {
+            "code": "SPEC-BETA",
+            "status": "json_output",
+            "children": []
+          }
+        ]
+      },
+      {
+        "code": "SPEC-BETA",
+        "status": "json_output_reused_no_repeat_expand",
+        "children": []
+      }
+    ]
+  }
+]
